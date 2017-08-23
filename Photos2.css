@@ -1,0 +1,9 @@
+div ul {
+	list-style-type: none;
+}
+
+.photos div, ul.pagination {
+	padding: 1em;
+}
+
+

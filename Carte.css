@@ -1,0 +1,35 @@
+.title {
+	text-align: center;
+}
+
+.title h1 {
+	font-size: 3em;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+/*li {
+	text-align: center;
+}*/
+
+.list-group li:nth-child(odd) {
+	background-color: grey;
+}
+
+.row {
+	display: flex;
+	justify-content: space-between;
+}
+
+.col-* {
+	text-align: center;
+}
+

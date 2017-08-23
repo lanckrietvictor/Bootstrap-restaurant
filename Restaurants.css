@@ -1,0 +1,16 @@
+.mobile {
+	margin-top: 5em;
+}
+
+iframe {
+	border-radius: 5px;
+	border: solid 1px black;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default {
+	padding-left: 0;
+	padding-right: 0; 
+	margin-left: 15px;
+	margin-right: 15px;
+	background-color: red;
+}
